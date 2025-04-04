@@ -18,7 +18,7 @@ for(let nombre of nombres){
 
 const persona = {
     nombre: "Diego",
-    edad: 21,
+    edad: 21,   
     saludar: () => {
         console.log("Hola");
     }
